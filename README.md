@@ -19,8 +19,6 @@
 🌍 Website: www.rafaelcerrejon.com
 ```
 
-[center]Centered text[/center]
-
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=react,redux,swift,androidstudio,ts,js,github,nodejs,vscode)](https://rafaelcerrejon.com)
 
