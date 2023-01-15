@@ -9,8 +9,6 @@
 ## About me
 ```yaml
 😄 Name: Rafael Cerrejon
-🌇 Living in: Cologne (Germany)
-⛱️ From: Huelva (Spain)
 💬 Languages: English, German, Spanish
 💻 Job: Software Engineer
 📻 Project: Mobile Apps developer for WDR
