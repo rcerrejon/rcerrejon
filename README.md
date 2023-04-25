@@ -10,9 +10,9 @@
 ```yaml
 😄 Name: Rafael Cerrejon
 💬 Languages: English, German, Spanish
-💻 Job: Software Engineer
+🖥️ Job: Software Engineer
 📻 Project: Mobile Apps developer for WDR
-⚛️ Using: React Native
+🔌 Using: React Native
 🎧 Interests: Music, Films, Travel, Videogames, IoT, Virtual Reality
 🌍 Website: www.rafaelcerrejon.com
 ```
