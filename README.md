@@ -3,7 +3,7 @@
 <h1 align="center">RAFAEL CERREJON <br> (Software Engineer) </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1121950/181512478-d93dfbf3-8691-4a1c-b42a-7dab85052e77.gif">
+  <kbd><img src="https://user-images.githubusercontent.com/1121950/181512478-d93dfbf3-8691-4a1c-b42a-7dab85052e77.gif"></kbd>
 </p>
 
 ## About me
