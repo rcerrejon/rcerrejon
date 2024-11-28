@@ -14,13 +14,16 @@
 🖥️ Job: Mobile Applications Developer.
 🔌 Tech Stack: React Native, Expo, TypeScript, Redux, Jest, MMKV, Reanimated..
 🎧 Interests: Video games, virtual reality, musical instruments..
+✉️ Contact me: rafaelcerrejon@gmail.com
 ```
 
 ## Links
 
-🌍 [Portfolio](https://www.rafaelcerrejon.com)<br>
-💼 [LinkedIn](https://www.linkedin.com/in/rafael-cerrejon/)<br>
-💻 [Gist](https://gist.github.com/rcerrejon)<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cerrejon/)<br>
+[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Rafael_Cerrejon/)<br>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/907953/)<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.rafaelcerrejon.com)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelcerrejon@gmail.com)<br>
 
 ## Latest projects in which I have worked
 
@@ -33,7 +36,3 @@
 | <img src="https://play-lh.googleusercontent.com/9RsS7WQ5lJ9gmDpw85NlfvpwTwzyYELIv5p5OP_CfWbmXxv6cIycRHQXBN1GHoqcxw=w50-h50-rw">   | **WDR 4**       | [<img src="https://www.rafaelcerrejon.com/resources/appstore-badge.png" height="50">](https://apps.apple.com/de/app/wdr-4/id1513178850)                     | [<img src="https://www.rafaelcerrejon.com/resources/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=de.WDR.WDR4)        |
 | <img src="https://play-lh.googleusercontent.com/7OfSwPZJbW4mt_C17mLDFoOddWIFd83VeITKVMAcyNz7vWQLWWC1OIRIW2OKSAQA5Z4=w50-h50-rw">  | **WDR 5**       | [<img src="https://www.rafaelcerrejon.com/resources/appstore-badge.png" height="50">](https://apps.apple.com/de/app/wdr-5/id1460138818)                     | [<img src="https://www.rafaelcerrejon.com/resources/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=de.WDR.WDR5)        |
 | <img src="https://play-lh.googleusercontent.com/h_WXqk-8J_1T8H5QelBDd8wpa9lZeZ9ZACfXyjoS8mtu7grn37BgNdTIng0cerJC4Gw=w50-h50-rw">  | **COSMO**       | [<img src="https://www.rafaelcerrejon.com/resources/appstore-badge.png" height="50">](https://apps.apple.com/de/app/wdr-cosmo/id1509203248)                 | [<img src="https://www.rafaelcerrejon.com/resources/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=de.WDR.COSMO)       |
-
-## GitHub stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcerrejon&layout=donut&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
