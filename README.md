@@ -25,9 +25,18 @@
 
 ## Resume / Lebenslauf / CV
 
-[![English](https://img.shields.io/badge/:gb:-Resume-blue)](./Resume_RafaelCerrejon.pdf)
-[![German](https://img.shields.io/badge/:de:-Lebenslauf-blue)](./Lebenslauf_RafaelCerrejon.pdf)
-[![Spanish](https://img.shields.io/badge/:es:-Curriculum%20vitae-blue)](./CV_RafaelCerrejon.pdf)<br>
+<a href="./Resume_RafaelCerrejon.pdf">
+  <span style="font-size:1.2em; vertical-align:middle;">🇬🇧</span>
+  <img src="https://img.shields.io/badge/-Resume-blue" style="vertical-align:middle;"/>
+</a><br>
+<a href="./Lebenslauf_RafaelCerrejon.pdf">
+  <span style="font-size:1.2em; vertical-align:middle;">🇩🇪</span>
+  <img src="https://img.shields.io/badge/-Lebenslauf-blue" style="vertical-align:middle;"/>
+</a><br>
+<a href="./CV_RafaelCerrejon.pdf">
+  <span style="font-size:1.2em; vertical-align:middle;">🇪🇸</span>
+  <img src="https://img.shields.io/badge/-Curriculum%20vitae-blue" style="vertical-align:middle;"/>
+</a><br>
 
 ## Latest projects in which I have worked
 
