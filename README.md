@@ -25,9 +25,9 @@
 
 ## Resume / Lebenslauf / CV
 
-[🇬🇧 Resume](./Resume_RafaelCerrejon.pdf)<br>
-[🇩🇪 Lebenslauf](./Lebenslauf_RafaelCerrejon.pdf)<br>
-[🇪🇸 CV en Español](./CV_RafaelCerrejon.pdf)<br>
+🇬🇧 [Resume](./Resume_RafaelCerrejon.pdf)<br>
+🇩🇪 [Lebenslauf](./Lebenslauf_RafaelCerrejon.pdf)<br>
+🇪🇸 [Curriculum vitae](./CV_RafaelCerrejon.pdf)<br>
 
 ## Latest projects in which I have worked
 
