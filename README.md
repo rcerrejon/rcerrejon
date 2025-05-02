@@ -25,18 +25,9 @@
 
 ## Resume / Lebenslauf / CV
 
-<a href="./Resume_RafaelCerrejon.pdf">
-  <span style="font-size:1.2em; vertical-align:middle;">🇬🇧</span>
-  <img src="https://img.shields.io/badge/-Resume-blue" style="vertical-align:middle;"/>
-</a><br>
-<a href="./Lebenslauf_RafaelCerrejon.pdf">
-  <span style="font-size:1.2em; vertical-align:middle;">🇩🇪</span>
-  <img src="https://img.shields.io/badge/-Lebenslauf-blue" style="vertical-align:middle;"/>
-</a><br>
-<a href="./CV_RafaelCerrejon.pdf">
-  <span style="font-size:1.2em; vertical-align:middle;">🇪🇸</span>
-  <img src="https://img.shields.io/badge/-Curriculum%20vitae-blue" style="vertical-align:middle;"/>
-</a><br>
+[🇬🇧 Resume](./Resume_RafaelCerrejon.pdf)<br>
+[🇩🇪 Lebenslauf](./Lebenslauf_RafaelCerrejon.pdf)<br>
+[🇪🇸 CV en Español](./CV_RafaelCerrejon.pdf)<br>
 
 ## Latest projects in which I have worked
 
