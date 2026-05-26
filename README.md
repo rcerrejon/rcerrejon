@@ -12,22 +12,15 @@
 😄 Name: Rafael Cerrejon
 💬 Languages: German, English, Spanish
 🖥️ Job: Mobile Applications Developer
-🔌 Tech Stack: React Native, Expo, TypeScript, Redux, Jest, MMKV, Reanimated..
+🔌 Tech Stack: React Native, Expo, TypeScript, Redux, Zustand, Jest, MMKV, Reanimated..
 ✉️ E-Mail: rafaelcerrejon@gmail.com
 ```
 
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cerrejon/)<br>
-[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Rafael_Cerrejon/)<br>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/907953/)<br>
 [![Gmail](https://img.shields.io/badge/contact%20me-grey?style=for-the-badge&logo=gmail)](mailto:rafaelcerrejon@gmail.com?subject=Hello%20Rafael)<br>
-
-## Resume / Lebenslauf / CV
-
-<img src="./gb.png" height="12"/> [Resume](./Resume_RafaelCerrejon.pdf)<br>
-<img src="./de.png" height="12"/> [Lebenslauf](./Lebenslauf_RafaelCerrejon.pdf)<br>
-<img src="./es.png" height="12"/> [Curriculum vitae](./CV_RafaelCerrejon.pdf)<br>
 
 ## Latest projects in which I have worked
 
