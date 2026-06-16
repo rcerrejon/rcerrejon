@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<h1 align="center">RAFAEL CERREJON <br> (Mobile Applications Developer) </h1>
+<h1 align="center">RAFAEL CERREJON <br> Tech Lead | Mobile Solutions Architect</h1>
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/1121950/181512478-d93dfbf3-8691-4a1c-b42a-7dab85052e77.gif" alt="Rafael Cerrejon"></kbd>
@@ -11,7 +11,7 @@
 ```yaml
 😄 Name: Rafael Cerrejon
 💬 Languages: German, English, Spanish
-🖥️ Job: Mobile Applications Developer
+🖥️ Job: Tech Lead | Mobile Solutions Architect
 🔌 Tech Stack: React Native, Expo, TypeScript, Redux, Zustand, Jest, MMKV, Reanimated..
 ✉️ E-Mail: rafaelcerrejon@gmail.com
 ```
